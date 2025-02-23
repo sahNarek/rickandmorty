@@ -10,14 +10,14 @@ This project provides a Python integration connector for the Rick and Morty API.
 
 ## Project Structure
 
-rick_and_morty_python/
-├── src/
-│   ├── rm_client.py        # Rick and Morty API client
-│   └── rm_controller.py    # Rick and Morty Resource handler
-├── config/
-│   └── __init__.py         # Configuration module
-└── main.py             # Main application script
-└── README.md           # This file
+rick_and_morty_python/  
+├── src/  
+│   ├── rm_client.py        # Rick and Morty API client  
+│   └── rm_controller.py    # Rick and Morty Resource handler  
+├── config/  
+│   └── __init__.py         # Configuration module  
+└── main.py             # Main application script  
+└── README.md           # This file  
 
 ## Usage
 
